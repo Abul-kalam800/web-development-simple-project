@@ -38,6 +38,7 @@ a{
     height: 80vh;
     background-image: linear-gradient(rgb(27, 27, 111), rgb(106, 46, 202));
     text-align: center;
+    
 }
 .hero h2{
     font-size: 3rem;
@@ -63,6 +64,15 @@ a{
 .btn:hover{
     background-color: #ed7b7b;
     color:#0a0a0a ;
+}
+.html{
+    font-size: 80px;
+    color: #ef6f6f;
+
+}
+.css{
+    font-size: 80px;
+    color: rgb(236, 45, 188);
 }
 footer{
     background-color: #1b1919;
