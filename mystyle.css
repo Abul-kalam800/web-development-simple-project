@@ -49,6 +49,21 @@ a{
     color: #e4dcdc;
     
 }
+.btn{
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    background-color: #20df99;
+    margin: 30px 10px;
+    transition: .4s all;
+    cursor: pointer;
+
+}
+.btn:hover{
+    background-color: #ed7b7b;
+    color:#0a0a0a ;
+}
 footer{
     background-color: #1b1919;
     padding: 30px;
