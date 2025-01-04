@@ -29,6 +29,9 @@ ul li{
     cursor: pointer;
     
 }
+a{
+    text-decoration: none;
+}
 .hero{
     padding: 2% 4%;
     margin: auto;
